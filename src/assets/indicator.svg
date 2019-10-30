@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="40px" height="77px" viewBox="0 0 40 77" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <filter filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB" id="filter_1">
+      <feFlood flood-opacity="0" result="BackgroundImageFix" />
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" />
+      <feOffset dx="2" dy="3" />
+      <feGaussianBlur stdDeviation="5.5" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.003921569 0 0 0 0 0.6745098 0 0 0 0 0.9921569 0 0 0 0.7411765 0" />
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect0_dropShadow" />
+      <feBlend mode="normal" in="SourceGraphic" in2="effect0_dropShadow" result="shape" />
+    </filter>
+  </defs>
+  <g filter="url(#filter_1)">
+    <path d="M5.11988 0C7.68065 0 10.2418 0 10.2418 0C10.2418 0 10.2418 44 10.2418 44L5.11988 44C2.29225 44 0 41.7078 0 38.8801L0 5.11988C0 2.29225 2.29225 0 5.11988 0Z" transform="matrix(-1 0 0 1 24.50146 13.5)" id="indicator" fill="#4192EC" stroke="none" />
+  </g>
+</svg>

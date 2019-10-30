@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M15.7933 14.9062L19.9898 19.2851C20.4826 19.8006 20.4826 20.6344 19.9898 21.1488C19.7428 21.406 19.4199 21.534 19.097 21.534C18.773 21.534 18.4501 21.406 18.2031 21.1488L13.967 16.728C12.5191 17.8066 10.7528 18.4501 8.84268 18.4501C3.96646 18.4501 0 14.3114 0 9.22562C0 4.13867 3.96646 0 8.84268 0C13.7178 0 17.6842 4.13867 17.6842 9.22562C17.6842 11.368 16.9739 13.3394 15.7933 14.9062ZM8.84272 2.63638C5.36003 2.63638 2.52539 5.59225 2.52539 9.22563C2.52539 12.859 5.36003 15.8137 8.84272 15.8137C12.3254 15.8137 15.1578 12.859 15.1578 9.22563C15.1578 5.59225 12.3254 2.63638 8.84272 2.63638Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="search-icon">
+    <use stroke="none" fill="#989898" fill-opacity="0.6117647" xlink:href="#path_1" fill-rule="evenodd" />
+    <g clip-path="url(#clip_1)">
+      <use xlink:href="#path_1" fill="none" stroke="#FFFFFF" stroke-width="1.2" />
+    </g>
+  </g>
+</svg>

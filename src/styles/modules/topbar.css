@@ -1,0 +1,71 @@
+#topbar {
+  min-width: 914px;
+  width: 100%;
+  height: 102px;
+  padding-left: 63.53px;
+  padding-right: 53px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fafbfc;
+  border-bottom: #e7e9ea solid 1px;
+}
+
+.topbar-search {
+  display: flex;
+  align-items: flex-start;
+}
+
+.topbar-search-icon {
+  margin-right: 13.64px;
+}
+
+.topbar-search-input {
+  margin-top: 1px;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-weight: 500;
+}
+
+.topbar-search-input::placeholder {
+  color: #989898;
+  font-family: "Roboto";
+}
+
+.topbar-profile-container {
+  display: flex;
+  align-items: center;
+}
+
+.topbar-invite-btn {
+  height: 28px;
+  margin-right: 29px;
+  padding: 0 13px 0 8px;
+  display: flex;
+  align-items: center;
+  color: rgba(77, 161, 255, 0.742018);
+  background: #fff;
+  border: 1px solid rgba(77, 161, 255, 0.7);
+  border-radius: 2px;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  cursor: pointer;
+  transition: opacity ease-in-out 300ms;
+}
+
+.topbar-invite-btn:hover {
+  opacity: 0.7;
+}
+
+.topbar-invite-icon {
+  height: 10px;
+  margin-right: 7px;
+}
+
+.topbar-profile-img {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+}
