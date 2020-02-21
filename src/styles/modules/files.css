@@ -8,6 +8,7 @@
 
 /* #region files documents */
 .files-documents {
+  min-width: 303px;
   width: 303px;
   margin-right: 30px;
 }
@@ -135,6 +136,7 @@
 
 /* #region  folder card */
 .files-card {
+  width: 100%;
   position: relative;
   margin-bottom: 32px;
 }
@@ -172,7 +174,6 @@
 }
 
 .fc-main {
-  width: 636px;
   height: 632px;
   padding: 31px 30px 0 30px;
   background: #fff;
@@ -286,6 +287,7 @@
   padding: 23px 28px 0 32px;
   margin-left: 60px;
   margin-top: -51px;
+  min-width: 252px;
   width: 252px;
   background: rgba(255, 255, 255, 0.74);
   box-shadow: 0px 2px 9px rgba(0, 0, 0, 0.02);

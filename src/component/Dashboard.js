@@ -13,7 +13,7 @@ function Dashboard() {
         setActiveSection={setActiveSection}
       />
 
-      <div>
+      <div id="l-dash-main">
         <Topbar />
 
         {activeSection === "files" && <FilesDashBoard />}

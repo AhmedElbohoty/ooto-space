@@ -1,4 +1,8 @@
 #l-dashboard {
-  min-width: 1024px;
+  min-width: 1440px;
   display: flex;
+}
+
+#l-dash-main {
+  width: 100%;
 }
